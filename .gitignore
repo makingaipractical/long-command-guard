@@ -1,0 +1,29 @@
+# Credentials and local secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*
+secrets*
+.netrc
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# Build output
+build/
+dist/
+*.egg
+
+# Editors and OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
