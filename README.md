@@ -162,6 +162,18 @@ python3 -m unittest -v
 The tests run the hook as a separate process with JSON on standard input, the way Claude
 Code runs it, and redirect the state folder into a temporary directory.
 
+## Getting help, and getting in touch
+
+If something does not work, or you want to ask about it:
+
+- **Email:** info@makingaipractical.com
+- **About MAIP:** https://makingaipractical.com
+
+## Reporting a security problem
+
+Please do not report a security problem in public. Email info@makingaipractical.com
+instead, and say in the subject line that it is about security.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
